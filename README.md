@@ -6,6 +6,8 @@
 
 - **ddns-scripts**
   简易 DDNS 脚本，兼容 Cloudflare 服务商。
+- **earnapp-api**
+  EarnApp 设备自动提交注册接口。
 - **gcp-autostart**
   谷歌云抢占式实例状态实时监控及自动重启工具。
 - **maccms-tool**
